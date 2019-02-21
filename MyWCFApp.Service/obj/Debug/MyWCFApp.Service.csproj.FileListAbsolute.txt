@@ -1,0 +1,7 @@
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\bin\MyWCFApp.Service.dll.config
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\bin\MyWCFApp.Service.dll
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\bin\MyWCFApp.Service.pdb
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\obj\Debug\MyWCFApp.Service.csprojAssemblyReference.cache
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\obj\Debug\MyWCFApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\obj\Debug\MyWCFApp.Service.dll
+C:\Users\Wael Kdouh\Desktop\MyWCFApp\MyWCFApp.Service\obj\Debug\MyWCFApp.Service.pdb
