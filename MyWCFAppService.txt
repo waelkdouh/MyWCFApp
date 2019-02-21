@@ -1,0 +1,26 @@
+Create a WCF Service Application
+
+Delete the default .cs and .svc files that got generated
+
+Run the wcf service project and get the service url which should look like this http://localhost:61424/FirstWebService.svc
+
+Right click on the references of the mvc project and click on "add service reference".
+
+Change the Namespace at the bottom of the wizard to FirstWebServiceReference
+
+Add the following client into the the home controller index method
+FirstWebServiceClient client = new FirstWebServiceClient();
+ViewBag.Message = client.Message();
+
+set the solution property to start both projects
+
+Add another operation to the interface and service files inside the wcf project and remember to update the service inside the mvc project by right clicing on the FirstWebServiceReference and clicking update service reference 
+[OperationContract]
+int add(int x, int y);
+		
+public int add(int x, int y)
+{
+	return x + y;
+}
+
+modify the home controller to utlize the newly updated operation
